@@ -62,5 +62,5 @@ export const abi = [
       "stateMutability": "view",
       "type": "function"
     }
-  ];
+  ]
 export const NFT_CONTRACT_ADDRESS = "0x0048b9C67ab31878548E6951169513AffFf8bFc2"
